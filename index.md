@@ -2,6 +2,8 @@
 
 ## A Multiplayer Format for Magic: The Gathering
 
+![MTG style image showing heroes sitting in a circle](teaser-image.webp)
+
 ### Overview
 Continental Warfare is a free-for-all Magic: The Gathering format for 5 or more players. It simulates the experience of battling across distant continents, where each player faces the immediate threats on their borders but remains aware of the unseen dangers beyond. The last player standing becomes the Emperor.
 
